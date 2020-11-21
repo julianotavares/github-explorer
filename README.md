@@ -10,8 +10,8 @@ Ao clicar em um repositório, o usuário é direcionado aos detalhes daquele rep
 
 ### Imagens do projeto
 
-<img src='./project-prints/home.png' alt='Page Home' />
-<img src='./project-prints/details.png' alt='Page Details' />
+<img src='./src/assets/home.png' alt='Page Home' />
+<img src='./src/assets/details.png' alt='Page Details' />
 
 ## Instalação
 Clone esse repositório na sua máquina:
